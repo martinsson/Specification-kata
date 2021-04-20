@@ -6,9 +6,10 @@ The good news is that it is easy to learn, we usually just lack the habit and re
 
 To practice, take a feature description, decompose it into one or more business rules, then illustrate each business rule with a list of tests.
 
-Typically this kata can be done with just about any subject, simple examples are the Leap Year kata, the FizzBuzz kata. They are short, but still contain several special cases. 
+Typically this kata can be done with just about any subject, simple examples are the Leap Year kata, the FizzBuzz kata. They are short, but still contain several special cases.
+You can find some examples in [subjects](https://github.com/martinsson/specification-kata/blob/main/subjects/)
 
-I do not use a tool for this. A tool gives the impresssion that you need the tool to do it in the real world. That's a barrier to it's adoption and a distraction from the bulk of the value of this practice.
+I do **not** use a tool for this. A tool gives the impression that you need the tool to do it on a real project. That's a barrier to it's adoption and a distraction from the bulk of the value of this practice.
 
 # Facilitation
 The way I typically run this is to start by demonstrate how by leading one myself, this is the best way of explaining what is wanted. Then let the group do one on their own on another subject, typically simple and algorithmic. Following that, a UI feature can be an interesting option (login form, fill in an IBAN, ...). If you're doing this with a team the idea is to end with a real feature in your backlog. 
@@ -40,5 +41,9 @@ If everything goes still, ask if there are any limit cases. If nothing happens, 
 ## Credits
 The first person to introduce me to this type of exercice (without tooling) was Gojko Adzic. He uses games like BlackJack and Poker. Those are good subjects as most of use think that we know the rules, only to discover that actually there are many variations, so it's a good idea to discuss it beforehand. 
 
-* Note that while I mention TDD I dont specifically target low level tests, in fact for almost every feature the list of examples will be translated into a mix of high and low level tests. Often this is called BDD (Behavior Driven Development) or specification by example. And it does not require any technology at all, a whiteboard or a text editor will suffice. And this is the activity that will be practised in this kata
+
+## Notes
+\* While I mention TDD I dont specifically target low level tests, in fact for almost every feature the list of examples will be translated into a mix of high and low level tests. Often this is called BDD (Behavior Driven Development) or specification by example. And it does not require any technology at all, 
+a whiteboard or a text editor will suffice. 
+And this is the activity that will be practised in this kata
 
