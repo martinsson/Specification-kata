@@ -15,7 +15,6 @@ Try to find the rules.
 ...
 
 
-
 ### Resources
 A more precise spec can be found at https://codingdojo.org/kata/LeapYears/. 
 But typically googling around can make it a more interesting exercice. The key is to realize that 
